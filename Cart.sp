@@ -14,7 +14,7 @@ public Plugin myinfo = {
     author      = "Katsute",
     description = "Set maximum cart speed",
     version     = "1.0",
-    url         = "https://github.com/KatsuteTF/Cart"
+    url         = "https://github.com/KatsuteTF/Cart-Speed"
 }
 
 public void OnPluginStart(){
